@@ -3,9 +3,12 @@ h3 {
 }
 
 img {
-
+   width: auto;
+  height: 100px;
+  border: thick double rgb(65, 25, 207);
 }
 
 .photos {
    text-align: center;
+   
 }
